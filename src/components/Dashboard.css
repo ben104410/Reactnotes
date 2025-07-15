@@ -1,0 +1,30 @@
+
+
+.dashboard-container {
+  min-height: 100vh;
+  background-image: url('Simple Paper Pen Business H5 Background Wallpaper Image For Free Download - Pngtree.jpeg'); 
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(36, 3, 3);
+  font-family: sans-serif;
+}
+
+.dashboard-box {
+  background-color: rgba(0, 0, 0, 0.6); /* translucent overlay */
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.dashboard-box h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.dashboard-box p {
+  font-size: 1.2rem;
+}
